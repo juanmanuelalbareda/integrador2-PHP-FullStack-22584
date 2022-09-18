@@ -1,0 +1,26 @@
+.imag {
+    background-image: url(../images/juan3.jpg);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grisoscuro {
+    background-color: rgb(51, 51, 51);
+    color: white;
+}
+
+.alineadoizq {
+    text-align: end;
+}
+
+.grisclaro {
+    color: rgb(151, 151, 151)
+}
+
+.verde {
+    color: rgb(78, 150, 26)
+}
+
+.ancho {
+    width: 191px;
+}
